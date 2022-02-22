@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "hales ",
+      "address": "london",
+      "email": "ales@gmail.com",
+      "contact": "1234567",
+      "id": 2
+    },
+    {
+      "name": "tasmeer",
+      "email": "tasmeer@gmail.com",
+      "contact": "123456789",
+      "address": "karachi",
+      "id": 5
+    },
+    {
+      "name": "james",
+      "email": "james@mail.com",
+      "contact": "656547748",
+      "address": "uk",
+      "id": 6
+    },
+    {
+      "name": "rose",
+      "email": "rose@gmail.com",
+      "contact": "7363838939",
+      "address": "us",
+      "id": 7
+    },
+    {
+      "name": "paul",
+      "email": "paul@gmail.com",
+      "contact": "644373888",
+      "address": "turkey",
+      "id": 8
+    },
+    {
+      "name": "tasmeer",
+      "email": "tasmeer",
+      "contact": "tasmeer",
+      "address": "tasmeer",
+      "id": 9
+    }
+  ]
+}
